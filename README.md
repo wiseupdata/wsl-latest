@@ -12,12 +12,12 @@
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.wsl-latest&left_color=green&right_color=black)
-![license](https://img.shields.io/github/license/wiseupdata/wsl-latest?style=plastic)
+![license](https://img.shields.io/github/license/wiseupdata/wsl-latest)
 
 
 ---
 
-`<a name="readme-top"></a>`
+<a name="readme-top"></a>
 
 
 <h1>
@@ -37,7 +37,12 @@
 <br>
 <br>
 
-## Google Chrome
+
+
+
+ ## Google Chrome <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/chrome.png" />
+
+
 
 <details>
 <summary>
