@@ -89,7 +89,7 @@ google-chrome
 
 
 <div align="center">
-  <video src="https://github.com/wiseupdata/wsl-latest/blob/main/assets/result.mp4" width=400/>
+  <video src="https://github.com/wiseupdata/wsl-latest/blob/main/assets/result.mp4" />
 <div/>
 
 
