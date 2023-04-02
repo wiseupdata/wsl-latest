@@ -1,14 +1,14 @@
 <a href="https://github.com/wiseupdata/wsl-latest">
-  <img align="left" alt="Wise Up Data's Instagram" width="22px" src="assets/instagram.png" />   
+  <img align="left" alt="Wise Up Data's Instagram" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/instagram.png" />   
 </a> 
 <a href="https://github.com/wiseupdata/wsl-latest">
-  <img align="left" alt="wise Up Data's Discord" width="22px" src="assets/discord.svg" />
+  <img align="left" alt="wise Up Data's Discord" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/discord.svg" />
 </a>
 <a href="https://github.com/wiseupdata/wsl-latest">
-  <img align="left" alt="wise Up Data | Twitter" width="22px" src="assets/twitter.svg" />
+  <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/twitter.svg" />
 </a>
 <a href="https://github.com/wiseupdata/wsl-latest">
-  <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="assets/linkedin.svg" />
+  <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/linkedin.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.wsl-latest&left_color=green&right_color=black)
@@ -21,7 +21,7 @@
 
 
 <h1>
-<img align="left" alt="DP-203" src="assets/20230402_120516_image.png" width="400" />
+<img align="left" alt="DP-203" src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/20230402_120516_image.png" width="400" />
 
 #      Useful commands and tips
 
@@ -71,5 +71,5 @@ Sivio Liborio
 
 📧 silvio.liborio@wiseupdata.com 
 
-<a href="https://www.linkedin.com/in/silvio-de-melo-liborio">silvio-de-melo-liborio<img align="left" alt="LinkedIN" width="18px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/4ca2277f5a01686291016a67d656688c7c1fbbda/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/silvio-de-melo-liborio">silvio-de-melo-liborio<img align="left" alt="LinkedIN" width="18px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/4ca2277f5a01686291016a67d656688c7c1fbbda/https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/linkedin.svg" />
 </a>
