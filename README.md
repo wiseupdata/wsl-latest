@@ -51,8 +51,6 @@ wsl --update
 wsl --shutdown
 ```
 
-<br>
-
 ### Let's install the Chrome 🚀️
 
 > update your distr
