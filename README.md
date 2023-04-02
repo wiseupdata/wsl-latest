@@ -86,6 +86,7 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
 google-chrome
 ```
+
 ![](https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/20230402_125022_image.png)
 
 
