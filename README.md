@@ -9,6 +9,8 @@
 </a>
 <a href="https://github.com/wiseupdata/wsl-latest">
   <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/linkedin.svg" />
+
+
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.wsl-latest&left_color=green&right_color=black)
@@ -85,7 +87,7 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 google-chrome
 ```
 
-![](https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/20230402_125022_image.png)
+https://user-images.githubusercontent.com/127680030/229356481-20513938-d00c-44a4-8387-85e3541e40d2.mp4
 
 
 > launch without blocking the terminal
