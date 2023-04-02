@@ -87,7 +87,11 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 google-chrome
 ```
 
-https://user-images.githubusercontent.com/127680030/229356481-20513938-d00c-44a4-8387-85e3541e40d2.mp4
+
+<div align="center">
+  <video src="https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/myvideo.mp4" width=400/>
+<div/>
+
 
 
 > launch without blocking the terminal
