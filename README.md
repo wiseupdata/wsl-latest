@@ -66,7 +66,7 @@ cd /tmp
 sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ```
 
-> Ignore errors messages in this step, just run!
+> Ignore errors messages in next step, just run!
 
 ```
 sudo dpkg -i google-chrome-stable_current_amd64.deb
@@ -87,6 +87,23 @@ google-chrome
 
 ![](https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/20230402_125022_image.png)
 
+
+> launch without blocking the terminal
+```
+nohup google-chrome www.google.com > /dev/null &
+```
+
+> let's create a shorcut!
+```
+cp ~/.bashrc ~/.bashrc-backup
+echo "alias google='nohup google-chrome www.google.com > /dev/null &'" >> ~/.bashrc
+source ~/.bashrc
+```
+
+> test it!
+```
+google
+```
 
 </details>
 
