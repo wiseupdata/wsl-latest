@@ -88,12 +88,6 @@ google-chrome
 ```
 
 
-<div align="center">
-  <video src="/assets/result.mp4"> </video>
-<div/>
-
-
-
 > launch without blocking the terminal
 ```
 nohup google-chrome www.google.com > /dev/null &
@@ -110,6 +104,9 @@ source ~/.bashrc
 ```
 google
 ```
+
+![](https://raw.githubusercontent.com/wiseupdata/wsl-latest/main/assets/20230402_125022_image.png)
+
 
 </details>
 
