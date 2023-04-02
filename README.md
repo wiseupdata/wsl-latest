@@ -89,7 +89,7 @@ google-chrome
 
 
 <div align="center">
-  <video src="/assets/result.mp4" />
+  <video src="/assets/result.mp4"> </video>
 <div/>
 
 
